@@ -37,3 +37,8 @@ To run the Burger Shop ERP system, follow these steps:
 
 Contributions to the Burger Shop ERP system are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Your contributions will help make the system more robust and efficient.
 
+## Acknowledgements
+
+ This ERP System project was developed as a semester project for Comsats University Islamabad. We would like to express our gratitude to our professors and mentors for their guidance and support throughout the development process.
+
+Special thanks to the developers of Visual Studio Code (VS Code) for providing a powerful and user-friendly IDE that greatly contributed to the development of this project.
