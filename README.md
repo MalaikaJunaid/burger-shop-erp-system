@@ -41,4 +41,4 @@ Contributions to the Burger Shop ERP system are welcome! If you find any issues 
 
  This ERP System project was developed as a semester project for Comsats University Islamabad. We would like to express our gratitude to our professors and mentors for their guidance and support throughout the development process.
 
-Special thanks to the developers of Visual Studio Code (VS Code) for providing a powerful and user-friendly IDE that greatly contributed to the development of this project.
+Special thanks to the developers of Visual Studio Code for providing a powerful and user-friendly IDE that greatly contributed to the development of this project.
