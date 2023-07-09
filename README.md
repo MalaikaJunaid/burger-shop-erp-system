@@ -19,7 +19,7 @@ Database: None (data is stored in variables within the program)
 
 Getting Started
 To run the Burger Shop ERP system, follow these steps:
-Clone the repository: git clone <repository-url>
+Clone the repository: git clone <[repository-url](https://github.com/MalaikaJunaid/erp-system.git)>
 Navigate to the project directory: cd burger-shop-erp
 Run the main Python file: python main.py
 Follow the on-screen prompts to interact with the ERP system.
