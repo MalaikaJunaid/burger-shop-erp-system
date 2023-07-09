@@ -27,7 +27,7 @@ This project is an ERP (Enterprise Resource Planning) system designed for a burg
 To run the Burger Shop ERP system, follow these steps:
 
 ```bash
-  1. Clone the repository: git clone <[repository-url](https://github.com/MalaikaJunaid/burger-shop-erp-system)>
+  1. Clone the repository: git clone <https://github.com/MalaikaJunaid/burger-shop-erp-system>
   2. Navigate to the project directory: cd burger-shop-erp-system
   3. Run the main Python file: python main.py
   4. Follow the on-screen prompts to interact with the ERP system.
